@@ -1,0 +1,10 @@
+# .gitignore
+
+# Ignore .env files
+.env
+
+# Ignore node_modules
+node_modules
+
+# Ignore request.rest
+request.rest
